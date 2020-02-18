@@ -36,10 +36,11 @@ const Wrapper = styled.div`
   max-height: 500px;
   width: 100%;
   height: 100%;
-  background-color: rgba(0,0,0,0.1);
+  background-color: rgba(255,255,255,1);
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  border: 1px solid #D2D2D2;
 `;
 
 const LogoLabel = styled.div`
